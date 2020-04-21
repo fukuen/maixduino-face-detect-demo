@@ -1,0 +1,3 @@
+[submodule "lib/Maixduino_GC0328"]
+	path = lib/Maixduino_GC0328
+	url = https://github.com/fukuen/Maixduino_GC0328
